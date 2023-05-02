@@ -1,0 +1,23 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "KD",
+        "age": 34,
+        "major": "NBA"
+      },
+      {
+        "id": 2,
+        "name": "MJ",
+        "age": 50,
+        "major": "POP"
+      },
+      {
+        "id": 3,
+        "name": "luffy",
+        "age": 19,
+        "major": "OP"
+      }
+    ]
+  }
+  
